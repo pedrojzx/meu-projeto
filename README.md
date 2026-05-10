@@ -1,10 +1,10 @@
-# 📚 Assistente Educacional com IA — Upload de PDF/TXT
+# -- Assistente Educacional com IA — Upload de PDF/TXT
 
 Aplicação web que utiliza inteligência artificial para auxiliar estudantes e professores na compreensão de conteúdos acadêmicos a partir de arquivos PDF ou TXT.
 
 ---
 
-## 🎯 Descrição do Projeto
+## -- Descrição do Projeto
 
 O usuário faz upload de um PDF ou TXT e recebe automaticamente, via IA:
 - Resumo objetivo do conteúdo
@@ -14,7 +14,7 @@ O usuário faz upload de um PDF ou TXT e recebe automaticamente, via IA:
 
 ---
 
-## 🗂️ Estrutura de Pastas
+## -- Estrutura de Pastas
 
 ```
 meu-projeto/
@@ -27,7 +27,7 @@ meu-projeto/
 
 ---
 
-## ⚙️ Decisões Técnicas — Sprint 1
+## -- Decisões Técnicas — Sprint 1
 
 ### 1. Biblioteca de leitura de PDF: pdf.js
 
@@ -79,7 +79,7 @@ Critério de decisão: manter o projeto como HTML/CSS/JS puro no MVP, sem framew
 
 ---
 
-## 🚀 Deploy — Azure Static Web Apps
+## -- Deploy — Azure Static Web Apps
 
 - **URL pública:** `https://yellow-field-06fdaa010.7.azurestaticapps.net`
 - **Plano:** Free
@@ -87,7 +87,7 @@ Critério de decisão: manter o projeto como HTML/CSS/JS puro no MVP, sem framew
 
 ---
 
-## 👥 Personas do Projeto
+## -- Personas do Projeto
 
 | Persona | Perfil | Necessidade |
 |---|---|---|
@@ -97,7 +97,7 @@ Critério de decisão: manter o projeto como HTML/CSS/JS puro no MVP, sem framew
 
 ---
 
-## 🛡️ Cenários de Falha Conhecidos
+## -- Cenários de Falha Conhecidos
 
 | Cenário | Comportamento esperado |
 |---|---|
@@ -108,7 +108,7 @@ Critério de decisão: manter o projeto como HTML/CSS/JS puro no MVP, sem framew
 
 ---
 
-## 📋 MVP — Funcionalidades Priorizadas
+## -- MVP — Funcionalidades Priorizadas
 
 - [x] Upload de arquivo PDF/TXT
 - [x] Extração de texto via pdf.js
@@ -121,7 +121,7 @@ Critério de decisão: manter o projeto como HTML/CSS/JS puro no MVP, sem framew
 
 ---
 
-## 🔄 Como Atualizar o Projeto
+## -- Como Atualizar o Projeto
 
 ```bash
 # 1. Faça as alterações nos arquivos localmente
